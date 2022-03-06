@@ -3,8 +3,8 @@
     "ignoredFiles": [
         "GameData/*",
         "docs/LegalMumboJumbo/*",
-        "GameData/kOSText2Speech/*",
-        "GameData/kOSText2Speech/Textures/*",
+        "GameData/kOSMisc/*",
+        "GameData/kOSMisc/Textures/*",
         "source/*",
         "**/Assets/**",
         "**/Flags/**",
